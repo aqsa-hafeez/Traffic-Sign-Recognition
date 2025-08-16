@@ -136,8 +136,3 @@ Plots of confusion matrices are generated in the notebook for visual analysis.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Dataset: Provided by Kaggle user [meowmeowmeowmeowmeow](https://www.kaggle.com/meowmeowmeowmeowmeow).
-- Libraries: Thanks to the TensorFlow/Keras and OpenCV communities.
